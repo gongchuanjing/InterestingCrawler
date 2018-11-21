@@ -19,10 +19,11 @@ public class Crawler08Jsoup {
 
     static String pathname = "E:\\Workspace\\WorkspaceIntelliJ_IDEA\\InterestingCrawler\\src\\main\\resources\\test.html";
 
-    public static void main(String[] args) throws IOException {
+    public static void main(String[] args) throws Exception {
         //testUrl();
         //testString();
-        testFile();
+        //testFile();
+        testSelector2();
     }
 
     public static void testUrl() throws IOException {
