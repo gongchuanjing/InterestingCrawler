@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--去掉httpclient在控制台的日志输出-->
+<configuration>
+    <logger name="org.apache" level="WARN" />
+    <logger name="httpclient" level="WARN" />
+</configuration>
