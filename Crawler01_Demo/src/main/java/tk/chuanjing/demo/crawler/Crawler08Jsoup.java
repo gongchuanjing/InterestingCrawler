@@ -17,7 +17,7 @@ import java.net.URL;
  */
 public class Crawler08Jsoup {
 
-    static String pathname = "E:\\Workspace\\WorkspaceIntelliJ_IDEA\\InterestingCrawler\\src\\main\\resources\\test.html";
+    static String pathname = "E:\\Workspace\\WorkspaceIntelliJ_IDEA\\InterestingCrawler\\Crawler01_Demo\\src\\main\\resources\\test.html";
 
     public static void main(String[] args) throws Exception {
         //testUrl();
