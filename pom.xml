@@ -8,6 +8,7 @@
         <module>Crawler01_Demo</module>
         <module>Crawler02_JD</module>
         <module>Crawler03_Webmagic</module>
+        <module>Crawler04_Job</module>
     </modules>
     <packaging>pom</packaging>
     <description>Java爬虫</description>
