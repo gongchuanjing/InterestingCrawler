@@ -75,16 +75,20 @@
         </dependency>
 
         <!--ElasticSearch-->
+        <!--
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-data-elasticsearch</artifactId>
         </dependency>
+        -->
 
         <!--单元测试-->
+        <!--
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-test</artifactId>
         </dependency>
+        -->
 
         <!--simhash-->
         <!--<dependency>
