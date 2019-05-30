@@ -50,5 +50,16 @@
             <artifactId>commons-lang3</artifactId>
             <version>3.7</version>
         </dependency>
+
+        <!--
+        Tesseract-OCR支持中文识别，并且开源和提供全套的训练工具，是快速低成本开发的首选。
+        Tess4J则是Tesseract在Java PC上的应用
+        -->
+        <!-- https://mvnrepository.com/artifact/net.sourceforge.tess4j/tess4j -->
+        <dependency>
+            <groupId>net.sourceforge.tess4j</groupId>
+            <artifactId>tess4j</artifactId>
+            <version>3.4.0</version>
+        </dependency>
     </dependencies>
 </project>
